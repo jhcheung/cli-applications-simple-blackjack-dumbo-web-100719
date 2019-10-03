@@ -42,7 +42,10 @@ def hit?(card_total)
   else
     invalid_command
     prompt_user
+<<<<<<< HEAD
     get_user_input
+=======
+>>>>>>> 004b36962334138f4e223b051b8bf50fd313709d
   end 
   return card_total
 end
